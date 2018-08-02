@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Objects defines a `recipes` object:
 
 var recipes = {};
@@ -37,3 +38,6 @@ function destructivelyDeleteFromObjectByKey(obj, key) {
   delete obj[key];
   return obj;
 }
+=======
+// 
+>>>>>>> 5e4581d03735dcde6cac46bc380c62ce020a0dd7
